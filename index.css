@@ -13,4 +13,9 @@ body {
 .results {
 	margin-top: 20px;
 }
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
 
